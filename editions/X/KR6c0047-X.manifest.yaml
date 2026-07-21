@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0047_000-X.yaml, hash: 'sha256:07c2f36d2182b107ab86ea3e4192de317bb96088590b003a2e6f2f986f85b4d3'}
+  - {seq: 0, filename: KR6c0047_000-X.yaml, hash: 'sha256:765966a656afea9e5f6bd738d79148ee57648b20fdcabad1950de76c04822f71'}
   - {seq: 1, filename: KR6c0047_001-X.yaml, hash: 'sha256:39f274613fc2f8cba8a6e32c5e8bde09ca78c9448c2b0bc510142603b4679290'}
   - {seq: 2, filename: KR6c0047_002-X.yaml, hash: 'sha256:6d19831a5820afbdc742857d1cd6957ed33b435661d31b79b98c0af3c37356a0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0047_000-X.markers.yaml, hash: 'sha256:dae7fac8d22e905288df30fa079f36b8b9c9de77ca892cde9ea23fdcc544abfe'}
+  - {seq: 0, role: markers, filename: assets/KR6c0047_000-X.markers.yaml, hash: 'sha256:c321b1871ec6fa113665b2689c5ac7057c9539e9d6eefc2c94318b2ca46b0f54'}
   - {seq: 1, role: markers, filename: assets/KR6c0047_001-X.markers.yaml, hash: 'sha256:c86488ec55272f70beba16646fc1c3a157d34ea9f998dcec88b72793f18ca1ea'}
   - {seq: 2, role: markers, filename: assets/KR6c0047_002-X.markers.yaml, hash: 'sha256:4e7a47ce7f514650f167bdcdf89c9f2aa340f6d6d247a21f80f9e54b95e2c730'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0047_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 459-A 金剛般若波羅蜜經序
@@ -407,4 +407,4 @@ table_of_contents:
   label: No. 459-D 重刻六祖金剛經解䟦
   type: mulu
   level: 1
-hash: sha256:189abdd14850a821e027f487af3656771cf5dc90934beb8b8d54222c9a48aa00
+hash: sha256:9e8b64be3213564b5ce328be7880104a7185cade287a402f9697e77d9facfa05
